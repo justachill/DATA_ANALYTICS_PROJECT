@@ -1,0 +1,8 @@
+# DATA_ANALYTICS_PROJECT
+The SmartInternz Project by Divyansh Singh (TEAM 213)
+
+It include:
+A. Assignment (all 3) 
+B. Project Files 
+C. Project Report (PDF) 
+D. [Demo Video](https://drive.google.com/file/d/1f8I7REEOiadkBEPkVV1WEWZ050iyg-lC/view) 
